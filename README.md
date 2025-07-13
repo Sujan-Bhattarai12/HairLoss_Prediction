@@ -2,10 +2,6 @@
 
 The analysis involves using hair data available from Datacamp. Initially steps is to clean the data, perform exploratory visulizations, and make the necessary changes. The projec is a part of global competition which will be submitted next month in the end of October.
 
-# Hair Loss Prediction
-
-A comprehensive machine learning project to predict hair loss severity by leveraging clinical and physiological data with multiple modeling approaches.
-
 ---
 
 ## Project Summary
