@@ -1,20 +1,20 @@
 # Hair Loss Factors Analysis  
 
 ## Background  
-Hair loss is a widespread concern that not only impacts appearance but can also serve as an indicator of broader health issues. Understanding the underlying factors—genetics, hormones, medical conditions, nutrition, stress, lifestyle, and environment—can help individuals and medical professionals design targeted interventions.  
+Hair loss is a widespread concern that not only impacts appearance but can also serve as an indicator of broader health issues. Understanding the underlying factors: genetics, hormones, medical conditions, nutrition, stress, lifestyle, and environment, can help individuals and medical professionals design targeted interventions.  
 
-This project analyzes survey data on hair loss and its potential contributing factors. Using machine learning, statistical modeling, and visualization techniques, we aim to uncover patterns and correlations that explain why hair loss occurs and what factors are most influential.  
+This project analyzes survey data on hair loss and its potential contributing factors. Using machine learning, statistical modeling, and visualization techniques, I aim to uncover patterns and correlations that explain why hair loss occurs and what factors are most influential.  
 
 ---
 
 ## Problem Statement  
-The key questions we set out to answer were:  
+The key questions I set out to answer were:  
 1. Do the data contain missing or anomalous values that could bias analysis?  
 2. Which variables (e.g., genetics, stress, smoking, age) are most strongly associated with hair loss?  
 3. Are these associations causal or merely correlational?  
 4. How does variable importance differ across subgroups (e.g., younger vs. older individuals)?  
 
-We tested these hypotheses using:  
+I tested these hypotheses using:  
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Regression models with regularization  
@@ -73,5 +73,3 @@ We tested these hypotheses using:
 - Develop a predictive tool for individualized risk assessment  
 
 ---
-
-## Repository Structure  
